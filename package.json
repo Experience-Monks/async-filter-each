@@ -1,0 +1,45 @@
+{
+  "name": "async-filter-each",
+  "version": "1.0.0",
+  "description": "async#filter() as a module",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "standard": "^5.1.1",
+    "tape": "^4.2.0"
+  },
+  "scripts": {
+    "test": "standard && node test.js | faucet"
+  },
+  "keywords": [
+    "async",
+    "filter",
+    "filtering",
+    "asynchronous",
+    "map",
+    "each",
+    "item",
+    "task",
+    "tasks",
+    "callback",
+    "errback",
+    "node",
+    "style",
+    "first"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/async-filter-each.git"
+  },
+  "homepage": "https://github.com/Jam3/async-filter-each",
+  "bugs": {
+    "url": "https://github.com/Jam3/async-filter-each/issues"
+  }
+}
